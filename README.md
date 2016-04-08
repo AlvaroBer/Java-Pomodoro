@@ -11,6 +11,9 @@ This is a simple pomodoro to use during your work. It allows control your workin
 
 ### User guide
 
+When you start the program you will see this window:
+<div style="text-align:center"><img src="https://github.com/AlvaroBer/Java-Pomodoro/blob/master/Screenshots/wtt_1.PNG?raw=true"></div>
+
 
 
 
