@@ -12,7 +12,11 @@ This is a simple pomodoro to use during your work. It allows control your workin
 ### User guide
 
 When you start the program you will see this window:
-<div style="text-align:center"><img src="https://github.com/AlvaroBer/Java-Pomodoro/blob/master/Screenshots/wtt_1.PNG?raw=true"></div>
+
+![alt tag](https://github.com/AlvaroBer/Java-Pomodoro/blob/master/Screenshots/wtt_1.PNG?raw=true)
+
+- The *Work Time* label represents the current stage. When you are in a work stage the label will be *"Work Time"*, and when you are in a rest stage the label will be *Rest Time*
+- 
 
 
 
