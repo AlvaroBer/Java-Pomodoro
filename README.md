@@ -8,8 +8,10 @@ This is a simple pomodoro to use during your work. It allows control your workin
 - The only thing that you have to do is download the WTT folder where you want and this is all.
 - To run the program execute the .jar file.
 
+======
 
 ### User guide
+
 
 #### Main window
 
@@ -23,6 +25,8 @@ When you start the program you will see this window:
 - The *"Work Time"* label represents the current stage. When you are in a work stage the label will be *"Work Time"*, and when you are in a rest stage the label will be *"Rest Time"*
 - The timer represents the time until the finalization of the current stage, in minutes and seconds.
 - The blue button allows the user start and pause the timer.
+
+======
 
 
 #### Options window
