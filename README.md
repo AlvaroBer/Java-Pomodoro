@@ -1,5 +1,7 @@
 ## Work Time Tracker  v 0.1
 
+####This version is obsolete at this time but probably it works partially.
+
 This is a simple pomodoro to use during your work. It allows control your working time and program your rests between working sessions. You can learn more about pomodoro technique in [this link](https://en.wikipedia.org/wiki/Pomodoro_Technique).
 
 ### Installation 
